@@ -21,4 +21,5 @@ Feel free to snoop around and look at my projects!
 - 🛠 GitHub: [github.com/combax](https://github.com/combax)
 
 📌 Projects not on GitHub: [COVID-19 Social Distance Analyzer](https://colab.research.google.com/drive/1g7JUZnr8ZC5PN4JWEyGqriQOA5JFJo43?usp=sharing), [CouchDB vs MongoDB](https://imaginative-daifuku-aa90ae.netlify.app/).
+
 🚀 I’m always eager to collaborate on exciting projects or learn something new. Let’s grow together!
