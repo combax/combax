@@ -7,8 +7,8 @@ Welcome to my GitHub! I'm passionate about solving real-world problems using dat
 Feel free to snoop around and look at my projects!
 
 ## 🌟 About Me
-- 🎓 **Master’s in Big Data Analytics** (92.44 GPA) from Trent University, Canada (2024–2025).
-- 🎓 **Bachelor’s in Computer Engineering** (8.41 CGPA) from G.H. Patel College of Engineering & Technology, India (2018–2022).
+- 🎓 **Master’s in Big Data Analytics** (92.44 GPA) from [Trent University, Canada](https://www.trentu.ca/) (2024–2025).
+- 🎓 **Bachelor’s in Computer Engineering** (8.41 CGPA) from [G.H. Patel College of Engineering & Technology, India](https://www.gcet.ac.in/) (2018–2022).
 - 🏢 Former **Junior Software Engineer** at [HOPS Healthcare](https://hops.healthcare/), where I fine-tuned ML models, implemented OCR pipelines, and refactored face recognition systems.
 - 🔍 Strong focus on machine learning, exploratory data analysis (EDA), and database management.
 
