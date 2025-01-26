@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kharanshu Naghera!
 
-🎯 **Data Science Professional** | 🧑‍💻 **Python Enthusiast** | 📊 **Data Explorer**
+🎯 **Data Science Professional** | 🧑‍💻 **Python Enthusiast** | 📊 **Data Explorer** | 🦾 **Machine Learning Engineer**
 
 Welcome to my GitHub! I'm passionate about solving real-world problems using data-driven approaches. With hands-on experience in Python, databases, visualizations, statistical testing, and machine learning, I aim to transform complex data into meaningful insights.
 
