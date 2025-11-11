@@ -8,7 +8,7 @@ Feel free to snoop around and look at my projects!
 
 ## 🌟 About Me
 - 🎓 **Master’s in Big Data Analytics** (3.7 GPA) from [Trent University, Canada](https://www.trentu.ca/) (2024–2025).
-- 🎓 **Bachelor’s in Computer Engineering** (3.2 CGPA) from [G.H. Patel College of Engineering & Technology, India](https://www.gcet.ac.in/) (2018–2022).
+- 🎓 **Bachelor’s in Computer Engineering** (3.2 GPA) from [G.H. Patel College of Engineering & Technology, India](https://www.gcet.ac.in/) (2018–2022).
 - 🏗️ **Freelancing Applied AI**: Fine-tuning LLMs/DL/Vision models for speicalized applications, adding RAGs (FAISS, Pinecone, Melvis, with cloud vector databases), deploying on AWS, and Azure, desigining APIs (FastAPI, Golang, Flask), and working with PostgreSQL.
 - 🏢 Former **Junior Software Engineer** at [HOPS Healthcare](https://hops.healthcare/), where I fine-tuned ML models, implemented OCR pipelines, and refactored face recognition systems.
 - 🔍 Strong focus on Machine Learning, Deep Learning, Artiificial Intillegence.
