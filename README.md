@@ -15,8 +15,7 @@ Feel free to snoop around and look at my projects!
 
 ## 📬 Let's Connect
 - 📧 Email: [realknaghera1@gmail.com](mailto:realknaghera1@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/Kharanshu-Naghera](https://www.linkedin.com/in/kharanshu-naghera-83035b1a6/)
-- 🛠 GitHub: [github.com/combax](https://github.com/combax)
+- 💼 LinkedIn: [linkedin.com/in/knaghera](https://www.linkedin.com/in/knaghera)
 
 📌 Side-Projects not on GitHub: [COVID-19 Social Distance Analyzer](https://colab.research.google.com/drive/1g7JUZnr8ZC5PN4JWEyGqriQOA5JFJo43?usp=sharing), [CouchDB vs MongoDB](https://imaginative-daifuku-aa90ae.netlify.app/).
 
