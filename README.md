@@ -2,7 +2,7 @@
 
 🎯 **Applied AI** | 🧑‍💻 **Python Enthusiast** | 🦾 **Machine Learning Engineer** | 📊 **Data Scientist**
 
-Welcome to my GitHub! I'm passionate about solving real-world problems using data-driven approaches and use of LLMs. With hands-on experience in Python, databases, ML, DL, LLMs, and visualizations, I aim to learn everything unde r.
+Welcome to my GitHub! I'm passionate about solving real-world problems using data-driven approaches and use of LLMs. With hands-on experience in Python, databases, ML, DL, LLMs, and visualizations, I aim to learn everything that makes AI better for real-world.
 
 Feel free to snoop around and look at my projects!
 
