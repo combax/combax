@@ -1,17 +1,24 @@
 # 👋 Hi, I'm Kharanshu Naghera!
 
-🎯 **Applied AI** | 🧑‍💻 **Python Enthusiast** | 🦾 **Machine Learning Engineer** | 📊 **Data Scientist**
+🎯 **Applied AI Engineer** | 🧑‍💻 **Python** | 🦾 **Machine Learning & LLMs** | 📊 **Data Scientist** | ☁️ **Cloud (AWS & Azure)**
 
-Welcome to my GitHub! I'm passionate about solving real-world problems using data-driven approaches and use of LLMs. With hands-on experience in Python, databases, ML, DL, LLMs, and visualizations, I aim to learn everything that makes AI better for real-world.
+Welcome to my GitHub! I build production-grade AI systems, from data pipelines to scalable ML/LLM deployments, with a focus on real-world impact in fintech and large-scale platforms. I enjoy turning messy data into reliable, explainable intelligence.
 
 Feel free to snoop around and look at my projects!
 
 ## 🌟 About Me
-- 🎓 **Master’s in Big Data Analytics** (3.7 GPA) from [Trent University, Canada](https://www.trentu.ca/) (2024–2025).
-- 🎓 **Bachelor’s in Computer Engineering** (3.2 GPA) from [G.H. Patel College of Engineering & Technology, India](https://www.gcet.ac.in/) (2018–2022).
-- 🏗️ **Freelancing Applied AI**: Fine-tuning LLMs/DL/Vision models for speicalized applications, adding RAGs (FAISS, Pinecone, Melvis, with cloud vector databases), deploying on AWS, and Azure, desigining APIs (FastAPI, Golang, Flask), and working with PostgreSQL.
-- 🏢 Former **Junior Software Engineer** at [HOPS Healthcare](https://hops.healthcare/), where I fine-tuned ML models, implemented OCR pipelines, and refactored face recognition systems.
-- 🔍 Strong focus on Machine Learning, Deep Learning, Artiificial Intillegence.
+
+**🏦 Software Engineer (ML) at RBC Royal Bank**
+Building scalable ML models for risk, fraud detection, NLP automation, and real-time model serving. Improved model accuracy, inference speed, and automated high-volume data pipelines using Python, Airflow, TensorFlow/PyTorch, and Azure.
+
+**🧠 Software Engineer, Applied ML at Apex Infolab**
+Designed personalization and NLP systems at scale (100M+ records), deployed real-time ML APIs serving 2M+ users, and reduced infrastructure costs using optimized cloud workflows on AWS.
+
+**🎓 Master's in Big Data Analytics — Trent University, Canada** - 3.7 GPA
+
+**🎓 Bachelor's in Computer Engineering — GTU, India** - 3.2 GPA
+
+**🔍 Strong focus on Machine Learning, Deep Learning, LLMs, NLP, and MLOps**
 
 ## 📬 Let's Connect
 - 📧 Email: [realknaghera1@gmail.com](mailto:realknaghera1@gmail.com)
