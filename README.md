@@ -24,6 +24,6 @@ Designed personalization and NLP systems at scale (100M+ records), deployed real
 - 📧 Email: [realknaghera1@gmail.com](mailto:realknaghera1@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/knaghera](https://www.linkedin.com/in/knaghera)
 
-📌 Side-Projects not on GitHub: [COVID-19 Social Distance Analyzer](https://colab.research.google.com/drive/1g7JUZnr8ZC5PN4JWEyGqriQOA5JFJo43?usp=sharing), [CouchDB vs MongoDB](https://imaginative-daifuku-aa90ae.netlify.app/).
+📌 Side-Projects not on GitHub: [COVID-19 Social Distance Analyzer](https://colab.research.google.com/drive/1g7JUZnr8ZC5PN4JWEyGqriQOA5JFJo43?usp=sharing), [CouchDB vs MongoDB](https://couch-vs-mongo.realknaghera1.workers.dev/).
 
 🚀 I’m always eager to collaborate on exciting projects or learn something new. Let’s grow together!
