@@ -35,11 +35,11 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/rows/rbc-dark.svg">
-    <img src="assets/rows/rbc-light.svg" width="760" alt="RBC, Software Engineer (ML), Toronto. Risk and fraud models, NLP automation and real-time model serving in Python, Airflow, PyTorch and Azure.">
+    <img src="assets/rows/rbc-light.svg" width="760" alt="RBC, Software Engineer, AI/ML, Toronto, Jan 2025 to present. Risk and fraud models, NLP automation and real-time model serving in Python, Airflow, PyTorch and Azure.">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/rows/apex-dark.svg">
-    <img src="assets/rows/apex-light.svg" width="760" alt="Apex Infolab, Software Engineer (Applied ML). Personalization and NLP systems over 100M+ records; real-time ML APIs serving 2M+ users on AWS.">
+    <img src="assets/rows/apex-light.svg" width="760" alt="Apex Infolab, Software Engineer, Applied ML, Bengaluru, Aug 2021 to Jul 2023. Personalization and NLP systems over 100M+ records; real-time ML APIs serving 2M+ users on AWS.">
   </picture>
 </p>
 
@@ -48,11 +48,11 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/rows/trent-dark.svg">
-    <img src="assets/rows/trent-light.svg" width="760" alt="Trent University, Peterborough. MSc Big Data Analytics.">
+    <img src="assets/rows/trent-light.svg" width="760" alt="Trent University, Peterborough, Sep 2023 to Jan 2025. MSc Big Data Analytics, GPA 3.7 / 4.0.">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/rows/gtu-dark.svg">
-    <img src="assets/rows/gtu-light.svg" width="760" alt="Gujarat Technological University. BE Computer Engineering.">
+    <img src="assets/rows/gtu-light.svg" width="760" alt="Gujarat Technological University, Jun 2018 to Jun 2022. BE Computer Engineering, GPA 3.2 / 4.0.">
   </picture>
 </p>
 
