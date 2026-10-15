@@ -34,12 +34,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/rows/rbc-dark.svg">
-    <img src="assets/rows/rbc-light.svg" width="760" alt="RBC, Software Engineer, AI/ML, Toronto, Jan 2025 to present. Risk and fraud models, NLP automation and real-time model serving in Python, Airflow, PyTorch and Azure.">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/rows/apex-dark.svg">
-    <img src="assets/rows/apex-light.svg" width="760" alt="Apex Infolab, Software Engineer, Applied ML, Bengaluru, Aug 2021 to Jul 2023. Personalization and NLP systems over 100M+ records; real-time ML APIs serving 2M+ users on AWS.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg">
+    <img src="assets/experience-light.svg" width="760" alt="Timeline. Jan 2025 to present: Software Engineer, AI/ML at RBC, Toronto; risk and fraud models, NLP automation and real-time model serving in Python, Airflow, PyTorch and Azure. Aug 2021 to Jul 2023: Software Engineer, Applied ML at Apex Infolab, Bengaluru; personalization and NLP systems over 100M+ records, real-time ML APIs serving 2M+ users on AWS.">
   </picture>
 </p>
 
@@ -47,12 +43,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/rows/trent-dark.svg">
-    <img src="assets/rows/trent-light.svg" width="760" alt="Trent University, Peterborough, Sep 2023 to Jan 2025. MSc Big Data Analytics, GPA 3.7 / 4.0.">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/rows/gtu-dark.svg">
-    <img src="assets/rows/gtu-light.svg" width="760" alt="Gujarat Technological University, Jun 2018 to Jun 2022. BE Computer Engineering, GPA 3.2 / 4.0.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/education-dark.svg">
+    <img src="assets/education-light.svg" width="760" alt="Timeline. Sep 2023 to Jan 2025: MSc Big Data Analytics, Trent University, Peterborough, GPA 3.7 of 4.0. Jun 2018 to Jun 2022: BE Computer Engineering, Gujarat Technological University, GPA 3.2 of 4.0.">
   </picture>
 </p>
 
