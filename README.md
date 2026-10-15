@@ -30,21 +30,12 @@
   Legal badge. Qwen2.5-3B with 4-bit QLoRA beats the base model on 10 of 15 LegalBench tasks and
   full LoRA on 11.
 
-<h2 align="center">Experience</h2>
+<h2 align="center">Experience and education</h2>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg">
-    <img src="assets/experience-light.svg" width="760" alt="Timeline. Jan 2025 to present: Software Engineer, AI/ML at RBC, Toronto; risk and fraud models, NLP automation and real-time model serving in Python, Airflow, PyTorch and Azure. Aug 2021 to Jul 2023: Software Engineer, Applied ML at Apex Infolab, Bengaluru; personalization and NLP systems over 100M+ records, real-time ML APIs serving 2M+ users on AWS.">
-  </picture>
-</p>
-
-<h2 align="center">Education</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/education-dark.svg">
-    <img src="assets/education-light.svg" width="760" alt="Timeline. Sep 2023 to Jan 2025: MSc Big Data Analytics, Trent University, Peterborough, GPA 3.7 of 4.0. Jun 2018 to Jun 2022: BE Computer Engineering, Gujarat Technological University, GPA 3.2 of 4.0.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg">
+    <img src="assets/timeline-light.svg" width="760" alt="Timeline, newest first. Jan 2025 to present: Software Engineer, AI/ML at RBC, Toronto; risk and fraud models, NLP automation and real-time model serving in Python, Airflow, PyTorch and Azure. Sep 2023 to Jan 2025: MSc Big Data Analytics, Trent University, Peterborough, GPA 3.7 of 4.0. Aug 2021 to Jul 2023: Software Engineer, Applied ML at Apex Infolab, Bengaluru; personalization and NLP systems over 100M+ records, real-time ML APIs serving 2M+ users on AWS. Jun 2018 to Jun 2022: BE Computer Engineering, Gujarat Technological University, GPA 3.2 of 4.0.">
   </picture>
 </p>
 
