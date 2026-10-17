@@ -1,9 +1,9 @@
 <h1 align="center">Kharanshu Naghera</h1>
 
-<p align="center">Machine learning engineer, Toronto. Risk and fraud models at RBC. The eight badges on the card are measured results; the index below has one entry per project and shows the badge it earned.</p>
+<p align="center">Machine learning engineer, Toronto. Risk and fraud models at RBC. The nine badges on the card are measured results; the index below has one entry per project and shows the badge it earned.</p>
 
 <p align="center">
-  <img src="assets/trainer-card.svg" width="760" alt="A trainer card: name, id, class, city, repo count, start date, and eight badges named ground, cite, sold, serve, balance, brief, lease and legal">
+  <img src="assets/trainer-card.svg" width="760" alt="A trainer card: name, id, class, city, repo count, start date, and nine badges named silence, ground, cite, sold, serve, balance, brief, lease and legal">
 </p>
 
 <p align="center">The ID number is the GitHub user id of this account (57245614); the start date is when the account was opened.</p>
@@ -11,24 +11,34 @@
 <h2 align="center">Projects</h2>
 
 <p align="center">
-  <img src="assets/pokedex.svg" width="760" alt="A red handheld index cycling through six entries: social distance, regcite, iPhone pricer, data to justice, an unreleased agents project, and the legal LLM, each with its type and badge">
+  <img src="assets/pokedex.svg" width="760" alt="A red handheld index cycling through seven entries: DeadReckon, social distance, regcite, iPhone pricer, data to justice, an unreleased agents project, and the legal LLM, each with its type, badge and the tech it is built with">
 </p>
 
-- 001 [Social-Distance-Analyzer](https://github.com/combax/Social-Distance-Analyzer), Ground badge.
-  Pair F1 0.99 at 2 m against 0.50 for the pixel rule; 11 YOLO detectors benchmarked.
-- 002 [regcite](https://github.com/combax/regcite), Cite badge. RP2040 parsed 949/949 registers
+- 001 [DeadReckon](https://github.com/combax/DeadReckon), Silence badge. Finds ships hiding from
+  AIS (silence, meetings at sea, wrong declared type) on ScyllaDB, Redis and Kafka, with a transformer
+  that scores tracks. Per-cell coverage weights cut rendezvous alerts from 2,485 to 384 on three
+  replayed hours; 5-minute position error 0.146 km against 0.189 km for dead reckoning; vessel type
+  from motion F1 0.411 against 0.091; 608 tests at 100% line and branch coverage. Built with Python,
+  ScyllaDB, Redis, Kafka (Redpanda), PyTorch, ONNX, Docker Compose and H3.
+- 002 [Social-Distance-Analyzer](https://github.com/combax/Social-Distance-Analyzer), Ground badge.
+  Pair F1 0.99 at 2 m against 0.50 for the pixel rule; 11 YOLO detectors benchmarked. Built with
+  Python, Ultralytics YOLO, OpenCV, PyTorch, BoT-SORT and TrackEval.
+- 003 [regcite](https://github.com/combax/regcite), Cite badge. RP2040 parsed 949/949 registers
   against the vendor's SVD; Qwen2.5-7B goes from 2/30 to 29/30 questions with the lookup tools.
-- 003 [eBay-iPhone-Price-Prediction](https://github.com/combax/eBay-iPhone-Price-Prediction), Sold
+  Built with Python, SQLite, MCP, Ollama for the vision pass, and pytest gates in CI.
+- 004 [eBay-iPhone-Price-Prediction](https://github.com/combax/eBay-iPhone-Price-Prediction), Sold
   and Serve badges. MAE C$62, R² 0.94 on 30k sold listings; a Go + ONNX server that exits when its
-  output drifts from the Python model.
-- 004 [From-Data-to-Justice](https://github.com/combax/From-Data-to-Justice), Balance badge.
-  Held-out macro-F1 0.635 against 0.469 for always Male, on 573k solved homicides.
-- 005 Agent coordination for Claude Code, not yet public, Brief and Lease badges. Written briefs
+  output drifts from the Python model. Built with Python, LightGBM, FastAPI, Go, ONNX, Docker,
+  AWS App Runner and Kubernetes.
+- 005 [From-Data-to-Justice](https://github.com/combax/From-Data-to-Justice), Balance badge.
+  Held-out macro-F1 0.635 against 0.469 for always Male, on 573k solved homicides. Built with
+  Python, R, XGBoost, SMOTEENN, FastAPI, Docker and AWS App Runner.
+- 006 Agent coordination for Claude Code, not yet public, Brief and Lease badges. Written briefs
   landed 20 of 20 runs clean against 2 of 3 slices for the vague prompt; one GPU job at a time gave
-  0 overlaps against 3.
-- 006 [Fine-tuning-and-Benchmarking-legal-LLMs](https://github.com/combax/Fine-tuning-and-Benchmarking-legal-LLMs),
+  0 overlaps against 3. Built with Python, Claude Code hooks and agents, git worktrees and CUDA.
+- 007 [Fine-tuning-and-Benchmarking-legal-LLMs](https://github.com/combax/Fine-tuning-and-Benchmarking-legal-LLMs),
   Legal badge. Qwen2.5-3B with 4-bit QLoRA beats the base model on 10 of 15 LegalBench tasks and
-  full LoRA on 11.
+  full LoRA on 11. Built with Python, Unsloth, QLoRA, LegalBench and CUDA on a laptop GPU.
 
 <h2 align="center">Experience and education</h2>
 
